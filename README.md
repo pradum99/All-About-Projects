@@ -23,8 +23,15 @@ For seasoned developers seeking a high level of complexity and sophistication, t
 
 # Project Structure
 ### Beginner Level Projects:-
+#### 1. Icon-Bar
+https://pradum99.github.io/All-About-Projects/BEGINNER/Icon%20Bar/
 
 ### Advance Level Projects:-
+#### 1. Currency converter
+https://pradum99.github.io/All-About-Projects/ADVANCE/Currency%20Converter/
+
+#### 2. Friends request
+https://pradum99.github.io/All-About-Projects/ADVANCE/friends%20request/
 
 ### Pro Level Projects
 

@@ -25,6 +25,8 @@ For seasoned developers seeking a high level of complexity and sophistication, t
 ### Beginner Level Projects:-
 #### 1. Icon-Bar
 https://pradum99.github.io/All-About-Projects/BEGINNER/Icon%20Bar/
+#### 2. DropDown Section
+https://pradum99.github.io/All-About-Projects/BEGINNER/According/
 
 ### Advance Level Projects:-
 #### 1. Currency converter

@@ -37,6 +37,9 @@ https://pradum99.github.io/All-About-Projects/ADVANCE/Currency%20Converter/
 #### 2. Friends request
 https://pradum99.github.io/All-About-Projects/ADVANCE/friends%20request/
 
+#### 3. StudySync 
+https://pradum99.github.io/All-About-Projects/ADVANCE/StudySync/
+
 ### Pro Level Projects
 #### 1. AirBn Project
 https://airbnb-project-o5ph.onrender.com/listings
